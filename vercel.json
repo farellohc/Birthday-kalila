@@ -1,10 +1,10 @@
 {
   "rewrites": [
-    { "source": "/1", "destination": "/Birthday [1]/index.html" },
-    { "source": "/2", "destination": "/Birthday [2]/index.html" },
-    { "source": "/3", "destination": "/Birthday [3]/index.html" },
-    { "source": "/4", "destination": "/Birthday [4]/index.html" },
-    { "source": "/5", "destination": "/Birthday [5]/index.html" },
-    { "source": "/6", "destination": "/Birthday [6]/index.html" }
+    { "source": "/1", "destination": "/Birthday%20%5B1%5D/index.html" },
+    { "source": "/2", "destination": "/Birthday%20%5B2%5D/index.html" },
+    { "source": "/3", "destination": "/Birthday%20%5B3%5D/index.html" },
+    { "source": "/4", "destination": "/Birthday%20%5B4%5D/index.html" },
+    { "source": "/5", "destination": "/Birthday%20%5B5%5D/index.html" },
+    { "source": "/6", "destination": "/Birthday%20%5B6%5D/index.html" }
   ]
 }
